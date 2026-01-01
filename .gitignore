@@ -1,2 +1,4 @@
 node_modules
 .env
+phase2-automation/node_modules/
+phase2-automation/.env
